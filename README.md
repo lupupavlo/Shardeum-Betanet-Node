@@ -78,9 +78,44 @@ operator-cli gui start
 ## Yukarıda belirlemiş olduğumuz şifreyi giriyoruz.
 
 <img width="1440" alt="Ekran Resmi 2023-02-02 19 28 13" src="https://user-images.githubusercontent.com/101462877/216383365-30973dbc-43a5-48cb-a916-6c1a013d4aec.png">
+  
+ 
+## `Maintenance` kısmına gelerek `start node` diyoruz.
+  
+<img width="1440" alt="Ekran Resmi 2023-02-02 22 36 51" src="https://user-images.githubusercontent.com/101462877/216432476-13ee3ec7-9381-4bf2-acb1-09baa8d75ad6.png">
+
+  
+## Metamask'ı  SPHINX AĞINDA bağlıyoruz. Sphinx ağı nasıl eklerim dersen yukarıda var.
+  
+  <img width="1440" alt="Ekran Resmi 2023-02-02 22 36 51" src="https://user-images.githubusercontent.com/101462877/216432965-714c474d-a742-4032-b6ca-bea7972962e1.png">
+  
+  
+## Faucet alıyoruz. Buradan: https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  
+  ![image](https://user-images.githubusercontent.com/101462877/216433395-0940fe21-6806-4a62-8d71-8b42330341ff.png)
 
 
-KURULUM İLE İLGİLİ SORUNLAR DÜZELİNCE DEVAM EDECEĞİM, DİSCORDDA ÇÖZMEYE ÇALIŞIYORUZ....
+## Stakeliyoruz.
+  
+  <img width="1440" alt="Ekran Resmi 2023-02-02 22 43 18" src="https://user-images.githubusercontent.com/101462877/216433614-73f58204-608f-419e-9901-7eb80590a577.png">
+
+
+ ## Terminale geri dönerek aşağıdaki komutu giriyoruz.
+
+```
+operator-cli start
+```
+  
+
+# Aşağıdaki komut ile durumu görüntüleyebilirsiniz.
+  
+
+```
+pm2 list
+```
+  
+  ![image](https://user-images.githubusercontent.com/101462877/216434539-6bcf7343-fcb3-423a-a7ee-d1cb8f1dde68.png)
+
 
 
 # Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)

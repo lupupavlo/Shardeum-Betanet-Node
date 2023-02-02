@@ -8,10 +8,8 @@
 NODE TİPİ | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
 | Testnet | 2-4          | 8         | 100  |
-
-
-![image](https://user-images.githubusercontent.com/101462877/193394913-27eeed39-6b28-465f-bdfa-b2980312afa2.png)
-
+  
+  
 
 ## Shardeum için önemli linkler:
 - [Website](https://shardeum.org)

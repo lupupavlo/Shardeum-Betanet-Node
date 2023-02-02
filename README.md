@@ -10,9 +10,16 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 | Testnet | 2-4          | 8         | 100  |
   
   
+  
+# Sphinx (Betanet) ağını metamask'e eklemek için: https://docs.shardeum.org/network/endpoints
+  
+  <img width="1440" alt="Ekran Resmi 2023-02-02 19 47 45" src="https://user-images.githubusercontent.com/101462877/216388297-d9b47afc-c5e6-4245-9bd9-1171a05fa77d.png">
+
+  
 
 ## Shardeum için önemli linkler:
 - [Website](https://shardeum.org)
+- [Explorer](https://explorer-sphinx.shardeum.org/)
 - [Twitter](https://twitter.com/shardeum)
 - [Discord](https://discord.gg/shardeum)
 
@@ -73,7 +80,7 @@ operator-cli gui start
 <img width="1440" alt="Ekran Resmi 2023-02-02 19 28 13" src="https://user-images.githubusercontent.com/101462877/216383365-30973dbc-43a5-48cb-a916-6c1a013d4aec.png">
 
 
-DEVAM EDECEĞİM....
+KURULUM İLE İLGİLİ SORUNLAR DÜZELİNCE DEVAM EDECEĞİM, DİSCORDDA ÇÖZMEYE ÇALIŞIYORUZ....
 
 
 # Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)

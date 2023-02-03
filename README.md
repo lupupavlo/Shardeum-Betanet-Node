@@ -1,6 +1,6 @@
 <h1 align="center">Shardeum Betanet Validator Kurulum Rehberi
 
-## Shardeum'un Betanet ağında validator kuruyoruz. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
+## Shardeum'un Betanet ağında validator kuruyoruz. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: <a href="https://t.me/LossNode" target="_blank">LossNode Chat</a>
 
 ![image](https://user-images.githubusercontent.com/101462877/216376207-8a54c853-8e4c-42bc-b2df-3622c0f2fcd9.png)
 
@@ -18,10 +18,11 @@ NODE TİPİ | CPU     | RAM      | SSD     |
   
 
 ## Shardeum için önemli linkler:
-- [Website](https://shardeum.org)
-- [Explorer](https://explorer-sphinx.shardeum.org/)
-- [Twitter](https://twitter.com/shardeum)
-- [Discord](https://discord.gg/shardeum)
+- <a href="https://shardeum.org" target="_blank">Website</a>
+- <a href="https://explorer-sphinx.shardeum.org" target="_blank">Explorer</a>
+- <a href="https://twitter.com/shardeum" target="_blank">Twitter</a>
+- <a href="https://discord.gg/shardeum" target="_blank">Discord</a>
+
 
 
 # 1) Kütüphanelerin kurulumu.
@@ -90,7 +91,7 @@ operator-cli gui start
   <img width="1440" alt="Ekran Resmi 2023-02-02 22 36 51" src="https://user-images.githubusercontent.com/101462877/216432965-714c474d-a742-4032-b6ca-bea7972962e1.png">
   
   
-## Faucet alıyoruz. Buradan: https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+## Faucet alıyoruz. Buradan: <a href="https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee" target="_blank">Faucet</a> 
   
   ![image](https://user-images.githubusercontent.com/101462877/216433395-0940fe21-6806-4a62-8d71-8b42330341ff.png)
 
@@ -118,7 +119,7 @@ pm2 list
 
 
 
-# Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
+# Sorularınız ve merak ettikleriniz için : <a href="https://t.me/LossNode" target="_blank">LossNode Chat</a>
 
 
 

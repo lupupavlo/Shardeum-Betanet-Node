@@ -1,6 +1,6 @@
 <h1 align="center">Shardeum Betanet Validator Kurulum Rehberi
 
-## Shardeum'un Betanet ağında validator kuruyoruz. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: <a href="https://t.me/LossNode" target="_blank">LossNode Chat</a>
+## Shardeum'un Betanet ağında validator kuruyoruz. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: <a href="https://t.me/LossNode" target="_blank" rel="noreferrer noopener" >LossNode Chat</a>
 
 ![image](https://user-images.githubusercontent.com/101462877/216376207-8a54c853-8e4c-42bc-b2df-3622c0f2fcd9.png)
 

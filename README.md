@@ -7,7 +7,7 @@
 ## Sistem gereksinimleri:
 NODE TİPİ | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
-| Testnet | 2-4          | 8         | 100  |
+| Testnet | 2-4          | 8         | 200  |
   
   
   

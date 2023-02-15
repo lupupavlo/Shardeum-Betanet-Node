@@ -25,6 +25,10 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 
 
 
+
+
+
+
 # 1) Kütüphanelerin kurulumu.
 
 ```
@@ -116,6 +120,33 @@ pm2 list
 ```
   
   ![image](https://user-images.githubusercontent.com/101462877/216434539-6bcf7343-fcb3-423a-a7ee-d1cb8f1dde68.png)
+  
+  
+  
+  
+# 0) 1.1 Güncellemesi.
+
+Burada sırasıyla sorulan sorulara; `y`, `y`, belirlediğiniz dashboard şifresi, kalanlara `Enter` basıp geçebilirsiniz.
+
+```
+curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+```
+![image](https://user-images.githubusercontent.com/101462877/219115450-704c2cd5-1d4a-4d3d-9e5d-e9d85bdb858b.png)
+
+```
+$HOME/.shardeum/shell.sh
+```
+
+```
+operator-cli gui start
+```
+
+## KALANI BURADA <a href="https://github.com/thisislexar/Shardeum-Betanet#4-bilgisayar%C4%B1m%C4%B1zda-herhangi-bir-taray%C4%B1c%C4%B1y%C4%B1-a%C3%A7%C4%B1yoruz" target="_blank">LİNK</a>
+
+## Faucet Linkleri:
+
+- https://faucet-sphinx.shardeum.org/
+- https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 
 

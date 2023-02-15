@@ -143,6 +143,14 @@ operator-cli gui start
 
 ## KALANI BURADA <a href="https://github.com/thisislexar/Shardeum-Betanet#4-bilgisayar%C4%B1m%C4%B1zda-herhangi-bir-taray%C4%B1c%C4%B1y%C4%B1-a%C3%A7%C4%B1yoruz" target="_blank">LİNK</a>
 
+## EĞER AĞDA STAKE YAPARKEN İŞLEMİNİZ ONAYLANMIYORSA SIRASIYLA AŞAĞIDAKİ GÖRSELLERİ UYGULAYABİLİRSİNİZ.
+
+![image](https://user-images.githubusercontent.com/101462877/219121224-08d060db-36d5-4dad-8ca0-56da279e518c.png)
+
+## Advanced kısmından Reset Account yapıp stake etmeyi tekrar deneiyn.
+![image](https://user-images.githubusercontent.com/101462877/219121371-09e02ef7-8eca-4f0b-ab72-3614043976bf.png)
+
+
 ## Faucet Linkleri:
 
 - https://faucet-sphinx.shardeum.org/
